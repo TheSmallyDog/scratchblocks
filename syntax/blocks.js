@@ -31,6 +31,7 @@ var overrideCategories = [
   "ev3",
   "microbit",
   "makeymakey",
+  "camera",
 ]
 var overrideShapes = [
   "hat",
